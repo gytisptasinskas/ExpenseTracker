@@ -20,6 +20,12 @@ Below are some screenshots of the Expense Tracker app showcasing its various fea
      <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock7.png" width="200" alt="Screenshot 7"</td>
      <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock8.png" width="200" alt="Screenshot 8"</td>
   </tr>
+    <tr>
+     <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock9.png" width="200" alt="Screenshot 9"></td>
+     <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock10.png" width="200" alt="Screenshot 10"</td>
+     <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock11.png" width="200" alt="Screenshot 11"</td>
+     <td><img src="https://github.com/gytisptasinskas/ExpenseTracker/blob/main/images/Mock12.png" width="200" alt="Screenshot 12"</td>
+  </tr>
 </table>
 
 ## Features
