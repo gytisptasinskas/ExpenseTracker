@@ -38,8 +38,3 @@ Below are some screenshots of the Expense Tracker app showcasing its various fea
 - **Animations**: Rive
 - **Charts**: Apple's Charts Kit
 - **Widgets**: iOS WidgetKit
-
-### Prerequisites
-- Xcode 14 or later
-- iOS 17 or later
-- Swift 5
