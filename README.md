@@ -24,6 +24,3 @@ The Expense Tracker app is a sophisticated mobile application designed to help u
 - Xcode 14 or later
 - iOS 17 or later
 - Swift 5
-
-### Installation
-1. Clone the repository:
