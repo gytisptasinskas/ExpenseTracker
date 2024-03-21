@@ -5,7 +5,7 @@ The Expense Tracker app is a sophisticated mobile application designed to help u
 
 ## Features
 - **Secure Access**: Protect your financial data with Pin Code or FaceID.
-- **Data Persistence**: All financial data is securely stored using SwiftData (CoreData).
+- **Data Persistence**: All financial data is securely stored using SwiftData.
 - **Onboarding Experience**: Enjoy a seamless introduction to the app with Rive animations.
 - **Home Widget**: Get a quick overview of your financial status directly from your home screen.
 - **Search and Filtering**: Easily find transactions based on remarks, title, and category.
